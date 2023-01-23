@@ -30,9 +30,3 @@ Christopher can precisely operate standard organic chemsitry lab equipment and e
 * MatLab (1 year)
 * ChemOffice
 * NMR Spectroscopy Analysis
-
-## Press 
-
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
-
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
