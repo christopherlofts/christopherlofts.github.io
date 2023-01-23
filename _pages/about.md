@@ -8,7 +8,7 @@ Christopher is a driven and high-achieving undergraduate student with an interes
 
 ## Education 
 
-### Vanderbilt University
+#### Vanderbilt University
 Cornelius Vanderbilt Scholar
 
 GPA: 3.761
@@ -17,6 +17,9 @@ GPA: 3.761
 
 ## Research Experience
 
+#### Dr. Steven Townsend's Lab
+Chemistry Department, Vanderbilt University
+* Contucting experiments to determine the total synthesis of Plumarellide, a natural product derived from the marine coral, Sinularia spp., with potential use as an anti-cancer compound.
 
 ## Technical Skills
 
